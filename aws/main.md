@@ -17,7 +17,7 @@
   - DynamoDB (NoSQL Database Service)
 
 - Security, Identity, & Compliance
-  - [IAM](#iam) (Identity and Access Management)
+  - [IAM](iam.md) (Identity and Access Management)
 
 - Other Service
   - SNS (Simple Notification Service)
