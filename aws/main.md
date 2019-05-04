@@ -15,7 +15,10 @@
 - Database
   - RDS (Relational Database Service, .. MySQL)
   - DynamoDB (NoSQL Database Service)
-  
+
+- Security, Identity, & Compliance
+  - [IAM](#iam) (Identity and Access Management)
+
 - Other Service
   - SNS (Simple Notification Service)
   - CloudWatch (AWS Resource Monitoring)
